@@ -1,0 +1,1 @@
+export const GravitationalConstat = 0.0000000000667384;
